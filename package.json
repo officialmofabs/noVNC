@@ -23,18 +23,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novnc/noVNC.git"
+    "url": "git+https://github.com/officialmofabs/noVNC.git"
   },
-  "author": "Joel Martin <github@martintribe.org> (https://github.com/kanaka)",
+  "author": "Moses Fabiyi <github@ecampuslearning.com> (https://github.com/officialmofabs)",
   "contributors": [
-    "Samuel Mannehed <samuel@cendio.se> (https://github.com/samhed)",
+    "Moses Fabiyi <officialmofabs@outlook.com> (https://github.com/officialmofabs)",
     "Pierre Ossman <ossman@cendio.se> (https://github.com/CendioOssman)"
   ],
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/novnc/noVNC/issues"
+    "url": "https://github.com/officialmofabs/noVNC/issues"
   },
-  "homepage": "https://github.com/novnc/noVNC",
+  "homepage": "https://github.com/officialmofabs/noVNC",
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
